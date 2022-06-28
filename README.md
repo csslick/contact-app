@@ -1,6 +1,6 @@
 # contact-app 연락처 앱
 <img width="313" alt="image" src="https://user-images.githubusercontent.com/24298382/176175955-9900c4d6-ed72-4a07-b0fb-b88f635b85aa.png">
-
+demo: https://csslick.github.io/contact-app/
 ## 소개
 1. 연락처 추가 및 조회
 2. 연락처 삭제(아이콘 클릭)
